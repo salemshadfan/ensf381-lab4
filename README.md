@@ -1,7 +1,7 @@
 # ensf381-lab4
 # Project Overview
 
-- This project we will get familiar with Markdown formatting (MD) , Flex and styling in css so that the web page adjusts to where it's displaying .
+- This project is to gain hands on experience on how to style using the flex technique and to get familiarized with formatting MD files.
 
  
 
